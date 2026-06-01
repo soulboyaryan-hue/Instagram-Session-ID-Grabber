@@ -4,7 +4,7 @@ os.system('title  ')
 os.system('cls||clear')
 print(f"[*] Session ID Grabber")
 print("")
-username = input(f"[+] Enter Username: ")
+username = input(f"[+] Enter Username:aziii_islost")
 password = stdiomask.getpass(f"[+] Enter Password: ")
 headers = {
 
